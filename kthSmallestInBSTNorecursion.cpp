@@ -1,4 +1,4 @@
-//
+//用栈处理中序遍历查找BST，O(K)
 class Solution {
 public:
     int kthSmallest(TreeNode* root, int k) {
